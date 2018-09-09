@@ -1,3 +1,3 @@
 # practice_js
 
-javascriptの学習で作成したjsファイル等
+JavaScript本格入門で学習したjavascriptの学習で作成したjsファイル等のログ
